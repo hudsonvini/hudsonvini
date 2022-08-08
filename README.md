@@ -1,4 +1,4 @@
-### Hi there I'm Hudson Vini 👋
+### Hi there, I'm Hudson Vini 👋
 
 - 🖥 I’m currently working on R Carvalho Group 
 -  🦾Work Hard, Big Results
