@@ -3,7 +3,7 @@
 - 🖥 I’m currently working on my mark.
 -  🦾Work Hard, Big Results
 
-<div height="250px" margin-bottom="20px" border-radius="20px">
+<div height="200px" margin-bottom="20px" border-radius="20px">
     <img height="100%" width="100%" border-radius="20px" object-fit="cover" src="https://img.lovepik.com/background/20211021/large/lovepik-banner-background-of-science-and-technology-image_500452313.jpg"/>
 </div>
 <div align="left">
