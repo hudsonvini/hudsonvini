@@ -3,7 +3,7 @@
 - 🖥 I’m currently working on my mark.
 -  🦾Work Hard, Big Results
 
-<img height="250px" width="100%" src="[https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&theme=vue&include_all_commits=true&count_private=true](https://png.pngtree.com/background/20210714/original/pngtree-banner-website-promotion-technology-in-blue-picture-image_1238743.jpg)"/>
+<img height="250px" width="100%" src="https://www.uninorte.com.br/wp-content/uploads/2018/08/banner-site-transferencia-na-hora.jpg"/>
 <div align="left">
   <a href="https://github.com/hudsonvini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
