@@ -31,6 +31,6 @@
 -->
 <div align="left">
   <a href="https://github.com/hudsonvini">
-  <img  width="40%" src="https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&include_all_commits=true&theme=algolia&bg_color=00000000&count_private=true"/>
-  <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonvini&layout=compact&langs_count=7&theme=algolia&bg_color=00000000"/>
+  <img  width="40%" src="https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&include_all_commits=true&theme=algolia&bg_color=00000000&count_private=true&hide_border=true"/>
+  <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonvini&layout=compact&langs_count=7&theme=algolia&bg_color=00000000&hide_border=true"/>
 </div>
