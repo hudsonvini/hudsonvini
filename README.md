@@ -11,6 +11,8 @@
   <img align="center" alt="Hudson-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
+![Hudson GitHub stats](https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&theme=transparent&bg_color=00000000&count_private=true)
+
 <!--<div height="150px" margin-bottom="20px" border-radius="20px">
     <img height="100%" width="100%" border-radius="20px" object-fit="cover" src="https://img.lovepik.com/background/20211021/large/lovepik-banner-background-of-science-and-technology-image_500452313.jpg"/>
 </div>-->
