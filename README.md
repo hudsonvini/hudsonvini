@@ -24,11 +24,12 @@
           
 </div>
 
-<!--
-<div height="150px" margin-bottom="20px" border-radius="20px">
-    <img height="100%" width="100%" border-radius="20px" object-fit="cover" src="https://img.lovepik.com/background/20211021/large/lovepik-banner-background-of-science-and-technology-image_500452313.jpg"/>
+
+<div height="80px" margin-bottom="20px" border-radius="20px">
+    <img height="100%" width="50%" border-radius="20px" object-fit="cover" src="https://static.vecteezy.com/system/resources/thumbnails/034/487/737/small/gold-frame-page-divider-free-png.png"/>
 </div>
--->
+
+
 <div align="left">
   <a href="https://github.com/hudsonvini">
   <img  width="40%" src="https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&include_all_commits=true&theme=algolia&bg_color=00000000&count_private=true&hide_border=true"/>
