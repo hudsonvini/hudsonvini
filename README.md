@@ -11,13 +11,13 @@
   <img align="center" alt="Hudson-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
-![Hudson GitHub stats](https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&theme=transparent&bg_color=00000000&count_private=true)
+![Hudson GitHub stats](https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&theme=algolia&bg_color=00000000&count_private=true)
 
 <!--<div height="150px" margin-bottom="20px" border-radius="20px">
     <img height="100%" width="100%" border-radius="20px" object-fit="cover" src="https://img.lovepik.com/background/20211021/large/lovepik-banner-background-of-science-and-technology-image_500452313.jpg"/>
 </div>-->
 <div align="left">
   <a href="https://github.com/hudsonvini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonvini&layout=compact&langs_count=7&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudsonvini&show_icons=true&include_all_commits=true&count_private=truetheme=algolia&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonvini&layout=compact&langs_count=7&theme=algolia&bg_color=00000000"/>
 </div>
