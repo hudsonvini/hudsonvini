@@ -26,7 +26,7 @@
 
 
 <div height="80px" margin-bottom="20px" border-radius="20px">
-    <img height="100%" width="500px" border-radius="20px" object-fit="cover" src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-decorative-text-divider-arrow-border-png-image_4746220.png"/>
+    <img height="100%" width="500px" border-radius="20px" object-fit="cover" src=""/>
 </div>
 
 
