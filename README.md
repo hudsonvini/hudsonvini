@@ -1,7 +1,7 @@
 ### Hi there, I'm Hudson Vini 👋
 
-- 🖥 I’m currently working on my mark.
--  🦾Work Hard, Big Results
+- 🖥 I’m Freelancer Web Developer and Web Designer and currently I help companies grow!
+-  🦾Work, Work Work
 
 <div style="display: inline_block""><br>  
   
