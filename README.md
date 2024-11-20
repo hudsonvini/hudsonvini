@@ -26,7 +26,7 @@
 
 
 <div height="80px" margin-bottom="20px" border-radius="20px">
-    <img height="100%" width="500px" border-radius="20px" object-fit="cover" src=""/>
+<!--     <img height="100%" width="500px" border-radius="20px" object-fit="cover" src=""/> -->
 </div>
 
 
